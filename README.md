@@ -1,33 +1,28 @@
 # Instagram Hack X
 
 ## About
-Instagram hacking tool available (Instagram information gathering, Instagram brute force, Instagram account auto repoter)
+Instagram brute force tool
 
 ## Features
 
 - Instagram bruteforce attack
-- Instagram auto-repoter
 - Update script
 - Remove script
 
 ## Requirements
 - Termux
-- Python 2
-- Python 3
+- Internet access
+- Git
+- Python
 
 ## Installation
+* `cd && pkg update && pkg upgrade -y` (update termux)
 * `termux-setup-storage` (allow saving results to storage)
-* `pkg update && pkg upgrade -y`
-* `pkg install python python2 git && cd`
-* `git clone https://github.com/MonoWax/instagram-hack-x`
-* `cd ~/instagram-hack-x`
-* `pip install -r requirements.txt`
-* `chmod +x *`
-* `./install.sh`
+* `git clone https://github.com/MonoWax/instagram-hack-x` (download tool)
+* `cd ~/instagram-hack-x && chmod +x * && ./install.sh`(install tool)
 
 ## Start
-* `cd ~/instagram-hack-x`
-* `./ihackx.sh`
+* `cd ~/instagram-hack-x && ./ihackx`
 
 ## Screenshot
 
