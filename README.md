@@ -3,12 +3,6 @@
 ## About
 Instagram brute force tool
 
-## Features
-
-- Instagram bruteforce attack
-- Update script
-- Remove script
-
 ## Requirements
 - Termux
 - Internet access
