@@ -16,16 +16,19 @@ Instagram hacking tool available (Instagram information gathering, Instagram bru
 - Python 2
 - Python 3
 
-## INSTALLATION [Termux]
+## Installation
 * `termux-setup-storage` (allow saving results to storage)
 * `pkg update && pkg upgrade -y`
-* `pkg install python python2 git`
+* `pkg install python python2 git && cd`
 * `git clone https://github.com/MonoWax/instagram-hack-x`
-* `cd instagram-hack-x`
-* `pip3 install -r requirements.txt`
+* `cd ~/instagram-hack-x`
+* `pip install -r requirements.txt`
 * `chmod +x *`
 * `./setup.sh`
-* `./insta-hack.sh`
+
+## Start
+* `cd ~/instagram-hack-x`
+* `./instagram-hack.sh`
 
 ## Screenshot
 
