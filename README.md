@@ -5,7 +5,6 @@ Instagram hacking tool available (Instagram information gathering, Instagram bru
 
 ## Features
 
-- Instagram information gathering
 - Instagram bruteforce attack
 - Instagram auto-repoter
 - Update script
