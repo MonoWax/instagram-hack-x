@@ -23,11 +23,11 @@ Instagram hacking tool available (Instagram information gathering, Instagram bru
 * `cd ~/instagram-hack-x`
 * `pip install -r requirements.txt`
 * `chmod +x *`
-* `./setup.sh`
+* `./install.sh`
 
 ## Start
 * `cd ~/instagram-hack-x`
-* `./instagram-hack.sh`
+* `./ihackx.sh`
 
 ## Screenshot
 
