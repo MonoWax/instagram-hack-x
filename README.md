@@ -21,7 +21,7 @@ Instagram brute force tool
 * `git clone https://github.com/MonoWax/instagram-hack-x` (download tool)
 * `cd ~/instagram-hack-x && chmod +x * && ./install.sh` (install tool)
 
-## Start
+## Starting
 * `cd ~/instagram-hack-x && ./ihackx`
 
 ## Screenshot
